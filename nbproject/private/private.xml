@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Splendr/core/controller.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/config.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/helpers/post.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/views/products/list.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/views/error/404.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/helpers/url.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/helpers/password.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/helpers/session.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/helpers/database.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/core/view.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/controllers/products.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/core/logger.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/views/user/profile.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/views/footer.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/core/model.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/models/user_model.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/helpers/message.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/views/products/form.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/models/products_model.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/helpers/map.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/views/products/tags.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/views/message.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/controllers/user.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/views/error/default.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/index.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/views/user/edit.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/core/bootstrap.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/static/css/style.css</file>
+            <file>file:/C:/xampp/htdocs/Splendr/static/css/bootstrap.min.css</file>
+            <file>file:/C:/xampp/htdocs/Splendr/static/js/bootstrap.min.js</file>
+            <file>file:/C:/xampp/htdocs/Splendr/helpers/tags.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/views/user/form.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/views/header.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/.htaccess</file>
+            <file>file:/C:/xampp/htdocs/Splendr/core/error.php</file>
+            <file>file:/C:/xampp/htdocs/Splendr/helpers/mail.php</file>
+        </group>
+    </open-files>
+</project-private>
